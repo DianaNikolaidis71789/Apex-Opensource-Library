@@ -66,3 +66,4 @@ Notes and usage details for Apex-Opensource-Library.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
