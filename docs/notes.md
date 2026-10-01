@@ -77,3 +77,4 @@ Notes and usage details for Apex-Opensource-Library.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- add a note about the defaults
