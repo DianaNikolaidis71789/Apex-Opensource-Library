@@ -80,3 +80,4 @@ Notes and usage details for Apex-Opensource-Library.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- fix a small wording issue
